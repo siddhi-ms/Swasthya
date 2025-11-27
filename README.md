@@ -5,6 +5,7 @@ Two folders were added: `frontend` (Vite + React) and `backend` (Node + Express)
 From project root open two terminals (cmd.exe on Windows):
 
 Frontend terminal:
+
 ```cmd
 cd /d "C:\Users\SIDDHI SUSHIR\OneDrive\Desktop\Projects\Swasthya\frontend"
 npm install
@@ -12,6 +13,7 @@ npm run dev
 ```
 
 Backend terminal:
+
 ```cmd
 cd /d "C:\Users\SIDDHI SUSHIR\OneDrive\Desktop\Projects\Swasthya\backend"
 npm install
